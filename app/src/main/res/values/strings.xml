@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SB Hacks VII Android Demo</string>
+    <string name="text_to_speak">Enter text!</string>
+    <string name="speak">Speak!</string>
+</resources>
